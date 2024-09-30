@@ -34,7 +34,7 @@
 |Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2024 | Montenegro|
 
 
-## Skils
+## Skills
 - 3d printing and CAD design
 - 3d modeling
 - PCB layout and ECAD design
