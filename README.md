@@ -19,6 +19,7 @@
 |National robotics competition "Vukobratićevi dani" | Participation | November 2023 | Belgrade, Serbia |
 |National CB radio competition | 2st Place | August 2024 | Osijek, Croatia |
 |BoostMeUp vol.4 | Participation | October 2024 | Nikšić, Montenegro|
+|Montenegro Pitching Competition| Participation | April 2025 | Podgorica, Montenegro|
 
 
 ## Additional activities
