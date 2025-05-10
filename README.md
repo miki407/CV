@@ -34,7 +34,7 @@
 |Assisted with the realization of the event "Karavan Znanja" | December 2022 | Montenegro |
 |Assisted with the realization of various events organized by NGO "Politehnika" | 2022 - 2024 | Montenegro|
 |Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2024 | Montenegro|
-
+|Held classes on the topic of Arduino programming at "M:tel Digitalna Fabrika" | March 2025 | Montenegro |
 
 ## Skills
 - 3d printing and CAD design
