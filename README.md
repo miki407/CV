@@ -21,7 +21,7 @@
 |BoostMeUp vol.4 | Participation | October 2024 | Nikšić, Montenegro|
 |Montenegro Pitching Competition| Participation | April 2025 | Podgorica, Montenegro|
 |WRO Montenegro regional competition| 3rd Place | April 2025 | Podgorica, Montenegro|
-
+|The games of the future 2025, Battle of robots | Participation | December 2025 | Abu Dhabi, UAE|
 ## Additional activities
 
 | Activity | Date | Location |
