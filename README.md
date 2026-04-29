@@ -22,6 +22,8 @@
 |Montenegro Pitching Competition| Participation | April 2025 | Podgorica, Montenegro|
 |WRO Montenegro regional competition| 3rd Place | April 2025 | Podgorica, Montenegro|
 |The games of the future 2025, Battle of robots | Participation | December 2025 | Abu Dhabi, UAE|
+|WRO Montenegro regional competition| 2rd Place | April 2026 | Podgorica, Montenegro|
+
 ## Additional activities
 
 | Activity | Date | Location |
